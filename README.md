@@ -37,7 +37,7 @@ Developing a video conferencing app that can convert American Sign Language to E
 # What we learned
 We have acquired knowledge and skills in utilising various technologies and tools to develop a video conferencing solution that incorporates gesture recognition functionality. Specifically, We have gained proficiency in utilising PeerJs for establishing video conferencing connections, utilising MediaPipes and OpenCV for real-time editing of remote video, and utilising TensorFlow for the training and implementation of a machine learning model for gesture recognition. Furthermore, We have gained insight into the challenges that may arise during the training and implementation of machine learning models.
 
-# What's next for SignLink
+# What's next 
 Potential future developments for this concept could include the creation of a mobile application to enhance accessibility and improve the accuracy of sign language translation. The current implementation utilizes letter-to-letter translation, however, incorporating advanced machine learning techniques would allow for recognition of compounded expressions, movement, and sign language, resulting in a more effective and holistic form of communication. The inclusion of live captioning and transcription functionality would also be beneficial. Furthermore, implementing support for multiple languages would promote inclusivity and cater to a diverse range of users.
 
 # Try it out
